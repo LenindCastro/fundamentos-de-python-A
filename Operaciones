@@ -1,0 +1,15 @@
+Numero1=float(input('Ingrese un valor: '))
+Numero2=float(input('Ingrese un segundo valor: '))
+
+
+print('Suma')
+print('La suma es:',Numero1+Numero2)
+print('-------')
+print('Resta')
+print('La resta es:',Numero1-Numero2)
+print('-------')
+print('Multiplicación')
+print('La multiplicación es:',Numero1*Numero2)
+print('-------')
+print('División')
+print('La división es:',Numero1/Numero2)
